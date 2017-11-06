@@ -1,15 +1,14 @@
+.DS_Store
 node_modules/
 dist/
 npm-debug.log*
-yarn-bebug.log*
+yarn-debug.log*
 yarn-error.log*
-sh.exe.stackdump
 
-#Editor directories and files
+# Editor directories and files
 .idea
+.vscode
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
-*.project
-package-lock.json
